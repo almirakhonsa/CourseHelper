@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="array_course_options">
+        <item>@string/course</item>
+        <item>@string/c_lia</item>
+        <item>@string/c_ef</item>
+        <item>@string/c_go</item>
+        <item>@string/c_neutron</item>
+    </string-array>
+</resources>

@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Course Helper</string>
+
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+
+    <string name="label_signin">Sign In</string>
+    <string name="label_signup">Sign Up</string>
+
+    <string name="nama">Nama</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+
+    <string name="detail_promo">Detail Promo</string>
+    <string name="in_promo">This course is especially for english enthusiast. We offer a lot of program that can help you improve your english. This course take 2 to 3 months.</string>
+    <string name="term_con">Term And Condition</string>
+    <string name="in_term">If you want to join this promo, at least you have done 1 class in our online course before 25 December 2017 (Go to chec our website at https://www/lia.com)</string>
+
+    <string name="detail_event">About This Event</string>
+    <string name="in_event">This course is especially for english enthusiast. We offer a lot of program that can help you improve your english. This course take 2 to 3 months.</string>
+
+    <string name="detail_profile">About This Course</string>
+    <string name="in_profile">This course is especially for english enthusiast. We offer a lot of program that can help you improve your english. This course take 2 to 3 months.</string>
+    <string name="detail_program">Program</string>
+    <string name="in_program">This course is especially for english enthusiast. We offer a lot of program that can help you improve your english. This course take 2 to 3 months.</string>
+    <string name="detail_regis">Registration Information</string>
+    <string name="in_regis">This course is especially for english enthusiast. We offer a lot of program that can help you improve your english. This course take 2 to 3 months.</string>
+
+    <string name="insert_dummy">Insert Data</string>
+    <string name="delete_all">Delete All Wish</string>
+    <string name="editor_activity_title_new_wish">Add a Wish</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+
+    <string name="category_overview">Oveview</string>
+    <string name="category_course">Course Name</string>
+
+    <string name="my_name">Your Name</string>
+    <string name="my_univ">Your University</string>
+    <string name="my_city">Your City</string>
+
+    <string name="category_measurement">City</string>
+
+    <string name="course">Course</string>
+    <string name="c_lia">LIA</string>
+    <string name="c_ef">English First</string>
+    <string name="c_go">Ganesha Operation</string>
+    <string name="c_neutron">Neutron</string>
+
+    <string name="action_save">Save</string>
+    <string name="action_delete">Delete</string>
+    <string name="title_activity_course_location">Map</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
